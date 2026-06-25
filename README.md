@@ -1,75 +1,48 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Mohith+L+A;Java+Developer;Full+Stack+Developer;AI+Enthusiast;Always+Learning+Something+New" />
+# Hi, I'm Mohith L A 👋
 
-<img src="https://komarev.com/ghpvc/?username=Mohith946&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge"/>
+### Computer Science Engineering Student • Full Stack Developer • AI Enthusiast • Java Developer  
 
-# ⚡ WELCOME TO MY DIGITAL UNIVERSE ⚡
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Java+%7C+Spring+Boot+%7C+AI;Always+Learning+Something+New" />
 
-### *Computer Science Engineer • Java Developer • AI Explorer • Problem Solver*
+<p>
+<a href="https://github.com/Mohith946"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mohith-l-a-041290293"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mohithla24@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Mohith946&style=flat-square&color=8B5CF6"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 ```yaml
 Name      : Mohith L A
-Education : B.E. Computer Science Engineering
+Education : B.E Computer Science Engineering
+College   : NMAM Institute of Technology
 Location  : Karnataka, India
-Focus     : Full Stack Development
-Currently : Spring Boot | Agentic AI | DSA
-Goal      : Software Development Engineer
+
+Interests:
+  - Java Development
+  - Spring Boot
+  - Full Stack Development
+  - Artificial Intelligence
+  - Problem Solving
 ```
 
 ---
 
-# ⚙️ Tech Arsenal
-
-## 💻 Languages
+# Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript"/>
+<img src="https://skillicons.dev/icons?i=java,spring,cpp,c,python,javascript"/><br><br>
 
-</p>
-
----
-
-## 🎨 Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
-
-</p>
-
----
-
-## ⚡ Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-
-</p>
-
----
-
-## 🗄 Database
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
-</p>
-
----
-
-## 🛠 Tools
-
-<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,mysql,mongodb"/><br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman"/>
 
@@ -77,81 +50,69 @@ Goal      : Software Development Engineer
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### 🚓 Police Criminal Management System
 
-```
-✔ Secure Authentication
-✔ QR Verification
-✔ Criminal Records
-✔ Dashboard Analytics
-✔ Modern Responsive UI
-```
+> Secure criminal record management system with QR verification, authentication and analytics dashboard.
 
-**Stack**
+**Tech Stack**
 
-`Spring Boot` • `MySQL` • `JavaScript`
+`Spring Boot` `MySQL` `JavaScript`
 
 ---
 
 ### 🎓 College Event Management System
 
-```
-✔ Student Registration
-✔ Event Management
-✔ Admin Dashboard
-✔ Authentication
-```
+> Event registration platform with admin dashboard and authentication.
 
-**Stack**
+**Tech Stack**
 
-`Spring Boot` • `Thymeleaf` • `MySQL`
+`Spring Boot` `Thymeleaf` `MySQL`
 
 ---
 
 ### 🏥 Hospital Management System
 
-```
-✔ Patient Records
-✔ Doctor Management
-✔ Appointment Booking
-```
+> DBMS project for managing patients, doctors and appointments.
 
-**Stack**
+**Tech Stack**
 
-`Node.js` • `Express` • `MySQL`
+`Node.js` `Express.js` `MySQL`
 
 ---
 
 ### 🤖 Agentic AI Smart Campus
 
-```
-✔ Smart Scheduling
-✔ AI Agents
-✔ Event Planning
-✔ Timetable Automation
-```
+> Multi-agent AI system for scheduling, event management and campus automation.
 
-**Stack**
+**Tech Stack**
 
-`Python` • `FastAPI` • `AI`
+`Python` `FastAPI` `AI`
 
 ---
 
-# 📊 GitHub Analytics
+# Currently Exploring
+
+- 🌱 Advanced Spring Boot
+- 🤖 Agentic AI
+- 🏗️ System Design
+- ☁️ Cloud & DevOps
+- 📚 Data Structures & Algorithms
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohith946&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohith946&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith946&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+<br>
 
 <div align="center">
 
@@ -159,9 +120,7 @@ Goal      : Software Development Engineer
 
 </div>
 
----
-
-# 📈 Contribution Graph
+<br>
 
 <div align="center">
 
@@ -171,17 +130,7 @@ Goal      : Software Development Engineer
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mohith946&theme=algolia&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
@@ -189,7 +138,7 @@ Goal      : Software Development Engineer
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mohith-l-a-041290293?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+<a href="https://www.linkedin.com/in/mohith-l-a-041290293">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -201,38 +150,10 @@ Goal      : Software Development Engineer
 
 ---
 
-# 💻 Currently Exploring
-
-```text
-██████████████████████░░░░░░ 75%
-
-▸ Spring Boot Advanced
-▸ Microservices
-▸ Agentic AI
-▸ System Design
-▸ Data Structures & Algorithms
-```
-
----
-
-# ⚡ Fun Fact
-
-```cpp
-while(!success)
-{
-    learn();
-    build();
-    debug();
-    repeat();
-}
-```
-
----
-
 <div align="center">
 
-### ⭐ "Turning ideas into scalable software, one commit at a time."
+> **"Consistency is harder than talent. Keep showing up."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:6C63FF&height=120&section=footer"/>
+⭐ If you like my projects, consider giving them a star.
 
 </div>

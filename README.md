@@ -58,7 +58,7 @@ Interests:
 
 **Tech Stack**
 
-`Spring Boot` `MySQL` `JavaScript`
+`React.js` `MongoDB` `JavaScript`
 
 ---
 

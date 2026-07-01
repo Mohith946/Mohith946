@@ -50,48 +50,6 @@ Interests:
 
 ---
 
-# Featured Projects
-
-### 🚓 Police Criminal Management System
-
-> Secure criminal record management system with QR verification, authentication and analytics dashboard.
-
-**Tech Stack**
-
-`React.js` `MongoDB` `JavaScript`
-
----
-
-### 🎓 College Event Management System
-
-> Event registration platform with admin dashboard and authentication.
-
-**Tech Stack**
-
-`Spring Boot` `Thymeleaf` `MySQL`
-
----
-
-### 🏥 Hospital Management System
-
-> DBMS project for managing patients, doctors and appointments.
-
-**Tech Stack**
-
-`Node.js` `Express.js` `MySQL`
-
----
-
-### 🤖 Agentic AI Smart Campus
-
-> Multi-agent AI system for scheduling, event management and campus automation.
-
-**Tech Stack**
-
-`Python` `FastAPI` `AI`
-
----
-
 # Currently Exploring
 
 - 🌱 Advanced Spring Boot
